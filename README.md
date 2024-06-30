@@ -5,7 +5,7 @@ since facebook's default archive format isn't very pretty to go through, if you 
 we support,
 * single file conversion.
 * batch conversion.
-###how to use?
-for single file conversion: python formatter.py input_file.html output_file.txt
-for batch conversion: python formatter.py --batch parent_directory_address.
+##How to use?
+* for single file conversion: python formatter.py input_file.html output_file.txt
+* for batch conversion: python formatter.py --batch parent_directory_address.
 for batch conversion, give it the address of the parent directory where all your conversation folders are located.
